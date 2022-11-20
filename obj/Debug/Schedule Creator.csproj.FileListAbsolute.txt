@@ -1,0 +1,12 @@
+C:\Users\Emil\Desktop\Schedule Creator\bin\Debug\Schedule Creator.exe.config
+C:\Users\Emil\Desktop\Schedule Creator\bin\Debug\Schedule Creator.exe
+C:\Users\Emil\Desktop\Schedule Creator\bin\Debug\Schedule Creator.pdb
+C:\Users\Emil\Desktop\Schedule Creator\bin\Debug\MaterialSkin.dll
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule Creator.csproj.AssemblyReference.cache
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule_Creator.Properties.Resources.resources
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule Creator.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule Creator.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule Creator.csproj.CopyComplete
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule Creator.exe
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule Creator.pdb
+C:\Users\Emil\Desktop\Schedule Creator\obj\Debug\Schedule_Creator.Form1.resources
